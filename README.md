@@ -1,5 +1,5 @@
 ## Olá, me chamo Felipe!
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje faço estágio com front-end
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contate-me no email: felipebadia2@gmail.com
 
